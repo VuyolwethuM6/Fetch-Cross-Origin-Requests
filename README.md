@@ -1,4 +1,4 @@
-# Fetch: Cross-Origin Requests - README
+# Fetch: Cross-Origin Requests
 
 ## Introduction
 
